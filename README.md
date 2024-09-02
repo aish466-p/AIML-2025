@@ -6,6 +6,6 @@ Lab 02: Implement AI Search using Breadth First, Depth First and A* Search Algor
 
 Lab 03: Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 
-Lab 04: Implement Linear Regression using Boston Housing Data
+[Lab 04:](https://github.com/aish466-p/AIML-2025/blob/main/lab%20-4) Implement Linear Regression using Boston Housing Data
 
 Lab 05: Implement Logistic Regression using Titanic Ship Data
